@@ -5,15 +5,18 @@ Basic Twitter Client
 Time spent: 9 hours spent in total
 
 Completed user stories:
- -User can sign in using OAuth login flow
- -User can view last 25 tweets from their home timeline
- -User should be able to see the user, body and timestamp for tweet
- -User should be displayed the relative timestamp for a tweet "8m", "7h"
+ -</b>User can sign in using OAuth login flow
+ 
+ -</b>User can view last 25 tweets from their home timeline
+ 
+ -</b>User should be able to see the user, body and timestamp for tweet
+ 
+ -</b>User should be displayed the relative timestamp for a tweet "8m", "7h"
 
 Optional : Links in tweets are clickable and viewable
 
-- User can load more tweets once they reach the bottom of the list using "infinite scroll" pagination
-- User can compose a new tweet
+- </b>User can load more tweets once they reach the bottom of the list using "infinite scroll" pagination
+- </b>User can compose a new tweet
 
     - User can click a “Compose” icon in the Action Bar on the top right
     - User will have a Compose view opened
