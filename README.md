@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Simle Twitter CLient
 
 
@@ -24,3 +25,9 @@ Completed user stories:
 
 3.![Video Walkthrough](simpletwitter.gif)
 
+=======
+TwitterClient
+=============
+
+Basic Twitter Client
+>>>>>>> 65ad1c368ad3112a87c8379aeec083742c310414
