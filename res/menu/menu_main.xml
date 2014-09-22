@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/miRefresh"
+          android:icon="@drawable/ic_refresh"
+          android:title="@string/refresh"
+          android:showAsAction="always"
+          android:onClick="onRefresh"/> 
+    
+   <item
+        android:id="@+id/miSettings"
+        android:icon="@drawable/ic_compose"
+        android:showAsAction="always"
+        android:title="@string/compose"
+        android:onClick="onCompose">
+    </item>
+
+</menu>
